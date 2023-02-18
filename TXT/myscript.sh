@@ -5,7 +5,7 @@
 # useful, but WITHOUT ANY WARRANTY; without even the implied 
 # warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
-# REV30: Fri 17 Feb 2023 08:00
+# REV31: Sun 19 Feb 2023 00:00
 # REV29: Mon 13 Feb 2023 13:30
 # REV19: Sun 05 Feb 2023 20:00
 # REV11: Sun 08 May 2022 06:00
@@ -96,7 +96,7 @@ for II in W?? ; do
 done
 popd
 
-if [[ "$WEEK" != "W00" ]] ; then
+if [[ "$WEEK" != "W00" ]] && [[ "$WEEK" != "W01" ]] ; then
     II="${RESDIR}my$WEEK.tar.bz2.asc"
     echo "Check and move $II..."
     [ -f $II ] && mv -vf $II .
