@@ -13,5 +13,4 @@ wget -c https://cbkadal.github.io/os231/SandBox/cbkadal.tar.xz
 
 ## May the fork() be with you!
 
-#### Rev 010b --- 22 Feb 2023
-
+#### Rev 010c --- 22 Feb 2023
