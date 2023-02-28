@@ -5,16 +5,12 @@
 # useful, but WITHOUT ANY WARRANTY; without even the implied 
 # warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
-# REV31: Sun 19 Feb 2023 00:00
+# REV32: Tue 28 Feb 2023 09:00
 # REV29: Mon 13 Feb 2023 13:30
 # REV19: Sun 05 Feb 2023 20:00
 # REV11: Sun 08 May 2022 06:00
 # REV02: Sun 19 Sep 2021 15:00
 # START: Mon 28 Sep 2020 21:00
-
-# ATTN:
-# You new to set "REC2" with your own Public-Key Identity!
-# Check it out with "gpg --list-key"
 
 # ATTN:
 # You new to set "REC2" with your own Public-Key Identity!
